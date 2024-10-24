@@ -1,1 +1,8 @@
-SiiNunit{}
+SiiNunit
+{
+ferry_connection : conn.aktau.priwall {
+	price: 2050
+	time: 2650
+	distance: 3200
+}
+}

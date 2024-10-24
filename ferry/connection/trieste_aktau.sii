@@ -1,1 +1,8 @@
-SiiNunit{}
+SiiNunit
+{
+ferry_connection : conn.trieste.aktau {
+	price: 3000
+	time: 1250
+	distance: 2950
+}
+}

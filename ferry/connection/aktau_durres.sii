@@ -1,1 +1,8 @@
-SiiNunit{}
+SiiNunit
+{
+ferry_connection : conn.aktau.durres {
+	price: 1950
+	time: 2550
+	distance: 2600
+}
+}

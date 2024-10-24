@@ -1,6 +1,4 @@
-ferry_data: ferry.calarasi
+﻿ferry_data: ferry.calarasi
 {
-	ferry_name: "Călărași"
-
+	ferry_name: "@@calarasi@@"
 }
-

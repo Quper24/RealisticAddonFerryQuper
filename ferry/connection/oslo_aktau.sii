@@ -1,1 +1,8 @@
-SiiNunit{}
+SiiNunit
+{
+ferry_connection : conn.oslo.aktau {
+	price: 2160
+	time: 2555
+	distance: 3300
+}
+}
