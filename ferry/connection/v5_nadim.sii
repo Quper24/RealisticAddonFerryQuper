@@ -1,9 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.v5.nadim {
-	price: 55500
-	time: 700
-	distance: 3450
-}
-}
-
+SiiNunit{}

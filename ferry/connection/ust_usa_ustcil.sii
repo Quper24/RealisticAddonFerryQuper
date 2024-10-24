@@ -1,9 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.ust_usa.ustcil {
-	price: 1650
-	time: 600
-	distance: 301
-}
-}
-
+SiiNunit{}

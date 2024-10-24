@@ -1,9 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.v10.v5 {
-	price: 53000
-	time: 640
-	distance: 3250
-}
-}
-
+SiiNunit{}
