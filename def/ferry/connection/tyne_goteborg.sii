@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.tyne.goteborg{
-	price: 150
-	time: 1299
-	distance: 670
-}
-}

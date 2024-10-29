@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.mersing.condao {
-	price: 185
-	time: 920
-	distance: 530
-}
-}

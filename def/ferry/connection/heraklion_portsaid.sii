@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.heraklion.portsaid {
-	price: 151
-	time: 1481
-	distance: 1302
-}
-}
-

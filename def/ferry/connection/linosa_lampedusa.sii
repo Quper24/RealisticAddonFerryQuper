@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.linosa.lampedusa{
-	price: 375
-	time: 105
-	distance: 110
-}
-}
-

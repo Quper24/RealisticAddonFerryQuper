@@ -1,8 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.travemunde_p.aktau {
-	price: 2050
-	time: 2650
-	distance: 3200
-}
-}
+SiiNunit{}

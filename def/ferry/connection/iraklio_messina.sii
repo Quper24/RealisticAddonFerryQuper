@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.iraklio.messina {
-	price: 112
-	time: 1807
-	distance: 980
-}
-}

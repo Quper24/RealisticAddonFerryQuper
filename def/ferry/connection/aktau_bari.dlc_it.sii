@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.aktau.bari {
-	price: 2900
-	time: 1350
-	distance: 2850
-}
-}

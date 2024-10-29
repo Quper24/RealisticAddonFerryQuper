@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.uig.lochboisdale {
-	price: 22
-	time: 125
-	distance: 80
-}
-}

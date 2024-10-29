@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.chania.athen {
-	price: 40
-	time: 415
-	distance: 356
-}
-}
-

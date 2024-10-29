@@ -1,9 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.aktau.smardan{
-	price: 2100
-	time: 950
-	distance: 1850
-}
-}
-
+SiiNunit{}

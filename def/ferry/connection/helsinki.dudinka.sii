@@ -1,9 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.helsinki.dudinka {
-	price: 1725
-	time: 2000
-	distance: 2928
-}
-}
-
+SiiNunit{}

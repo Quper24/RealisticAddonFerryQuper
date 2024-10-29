@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.torshavn.ullapool {
-	price: 110
-	time: 670
-	distance: 400
-}
-}
-
