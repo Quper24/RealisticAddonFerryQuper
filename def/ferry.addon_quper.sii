@@ -237,4 +237,8 @@ SiiNunit
 @include "ferry/ystad.sui"
 @include "ferry/ystadf.sui"
 @include "ferry/ystadr.sui"
+@include "ferry/ceuta.sui"
+@include "ferry/melilla.sui"
+@include "ferry/menorca.sui"
+@include "ferry/mahon.sui"
 }

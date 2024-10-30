@@ -1,5 +1,4 @@
-ferry_data: ferry.palma
+﻿ferry_data: ferry.palma
 {
-	ferry_name: "Palma - Porto Pí"
-	ferry_name_localized: "@@Palma - Porto Pí@@"
+	ferry_name: "@@Palma De Menorca@@"
 }
