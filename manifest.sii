@@ -7,7 +7,7 @@ mod_package : .package_name
 	package_version: "1.5.1"
 
 	# Display name can be any string with any length.
-	display_name: "Remover Ferries by Quper 1.52 TEST"
+	display_name: "Remover Ferries by Quper 1.52"
 
 	# Author can be any string with any length.
 	author: "Quper"
