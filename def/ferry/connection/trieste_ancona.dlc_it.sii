@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.trieste.ancona {
-	price: 335
+	price: 20
 	time: 620
 	distance: 250
 	
