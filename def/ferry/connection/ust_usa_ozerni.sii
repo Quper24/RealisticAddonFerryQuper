@@ -1,9 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.ust_usa.ozerni {
-	price: 58
-	time: 300
-	distance: 150
-}
-}
-
+SiiNunit{}

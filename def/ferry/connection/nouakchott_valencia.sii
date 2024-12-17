@@ -1,9 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.nouakchott.valencia{
-	price: 88
-	time: 2451
-	distance: 1596
-}
-}
-
+SiiNunit{}

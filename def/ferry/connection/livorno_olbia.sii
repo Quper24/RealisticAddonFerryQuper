@@ -1,9 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.livorno.olbia{
-	price: 11
-	time: 480
-	distance: 200
-}
-}
-
+SiiNunit{}

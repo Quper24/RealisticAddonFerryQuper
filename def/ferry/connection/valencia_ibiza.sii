@@ -1,8 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.valencia.ibiza {
-	price: 23
-	time: 550
-	distance: 297
-}
-}
+SiiNunit{}

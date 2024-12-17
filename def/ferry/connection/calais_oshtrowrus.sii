@@ -1,9 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.calais.oshtrowrus {
-	price: 15
-	time: 2500
-	distance: 2300
-}
-}
-
+SiiNunit{}
