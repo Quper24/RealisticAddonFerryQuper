@@ -1,16 +1,14 @@
-[Blue] Ferries Rebuild from Quper
-[Green] ENG
+[blue]Remover Ferries by Quper
 
-[Orange] Ferry system: [standard]
-Routes: Many routes have been redesigned, some have been deleted, and new ones have been added.
-The purpose of this modification of the game is to increase the number of movements on wheels.
+[green]ENG
+
+[orange]Ferry System:[normal]
+Routes: Removed unnecessary routes. The goal is to move on wheels
 
 
 
-[Blue] Ferries Rebuild от Quper
-[Green] RUS
-[Orange] Система паромов: [standard]
-Маршруты: Многие маршруты были переработаны, некоторые удалены, а также добавлены новые.
-Цель этой модификации игры — увеличить количество передвижений на колёсах.
+[green]RUS
 
+[orange]Система паромов:[normal]
+Маршруты: Удалены лишние маршруты. Цель перемещение на колесах
 
