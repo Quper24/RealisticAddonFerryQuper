@@ -1,0 +1,14 @@
+[blue]Remover Ferries by Quper
+
+[green]ENG
+
+[orange]Ferry System:[normal]
+Routes: Removed unnecessary routes. The goal is to move on wheels
+
+
+
+[green]RUS
+
+[orange]Система паромов:[normal]
+Маршруты: Удалены лишние маршруты. Цель перемещение на колесах
+

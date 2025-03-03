@@ -1,0 +1,18 @@
+[blue]Remover Ferries by Quper
+
+For version 1.54, I will update the modification as new maps become available.
+
+Для версии 1.54 я буду обновлять модификацию по мере появления новых карт.
+
+[green]ENG
+
+[orange]Ferry System:[normal]
+Routes: Removed unnecessary routes. The goal is to move on wheels
+
+
+
+[green]RUS
+
+[orange]Система паромов:[normal]
+Маршруты: Удалены лишние маршруты. Цель перемещение на колесах
+
