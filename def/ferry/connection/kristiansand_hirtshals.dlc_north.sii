@@ -1,1 +1,9 @@
-SiiNunit{}
+SiiNunit
+{
+ferry_connection : conn.kristiansand.hirtshals {
+	price: 13
+	time: 218
+	distance: 145
+}
+}
+

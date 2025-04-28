@@ -1,1 +1,10 @@
-SiiNunit{}
+SiiNunit
+{
+ferry_connection : conn.ambarli.soci{
+	price: 42
+	time: 1090
+	distance: 726
+
+}
+}
+

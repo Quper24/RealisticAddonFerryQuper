@@ -1,1 +1,10 @@
-SiiNunit{}
+SiiNunit
+{
+ferry_connection : conn.calais.karaganda {
+	price: 11
+	time: 154
+	distance: 102
+}
+
+}
+
