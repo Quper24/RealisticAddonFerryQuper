@@ -1,6 +1,0 @@
-ferry_data: ferry.barnaul
-{
-	ferry_name: "Барнаул"
-	ferry_name_localized: "@@Barnaul@@"
-	transport_type: "train"
-}

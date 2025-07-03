@@ -1,6 +1,0 @@
-ferry_data: ferry.capetown
-{
-	ferry_name: "Cape Town"
-	ferry_name_localized: "@@Cape Town@@"
-}
-
